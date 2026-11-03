@@ -1,0 +1,13 @@
+{
+  "config": "hugo.toml,pages.json",
+  "theme": "template",
+  "sample": "exampleSite",
+  "version": "0.167.0",
+  "slug": "hugo-theme-cleanwhite",
+  "npm": [],
+  "asset_build": [],
+  "generator": "3.1",
+  "repo": "https://github.com/khj56366-droid/8week-project.git",
+  "baseURL": "https://khj56366-droid.github.io/8week-project/",
+  "audited": true
+}
